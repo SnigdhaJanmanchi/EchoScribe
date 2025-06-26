@@ -99,5 +99,5 @@ You’ll see a live preview in your browser within 1–3 minutes.
 - 🧑‍💼 Speaker separation (diarization)
 - 📄 Export to `.vtt` subtitle format
 ## 🚩 Live Demo
+You can test the app live at the following link: [EchoScribe on Hugging Face](https://huggingface.co/spaces/Sjanmanchi/EchoScribe)
 
-You can test the app live at the following link: EchoScribe on Hugging Face
