@@ -1,0 +1,7 @@
+gradio
+transformers
+torch
+moviepy==1.0.3
+pydub
+ffmpeg-python
+srt
