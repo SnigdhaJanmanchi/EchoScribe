@@ -98,3 +98,7 @@ You’ll see a live preview in your browser within 1–3 minutes.
 - 🎙️ Live microphone-based transcription
 - 🧑‍💼 Speaker separation (diarization)
 - 📄 Export to `.vtt` subtitle format
+## 🚩 Live Demo
+
+Try out the EchoScribe app live on Hugging Face Spaces:  
+[https://huggingface.co/spaces/Sjanmanchi/EchoScribe](https://huggingface.co/spaces/Sjanmanchi/EchoScribe)
