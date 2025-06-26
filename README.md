@@ -100,5 +100,4 @@ You’ll see a live preview in your browser within 1–3 minutes.
 - 📄 Export to `.vtt` subtitle format
 ## 🚩 Live Demo
 
-Try out the EchoScribe app live on Hugging Face Spaces:  
-[https://huggingface.co/spaces/Sjanmanchi/EchoScribe](https://huggingface.co/spaces/Sjanmanchi/EchoScribe)
+You can test the app live at the following link: EchoScribe on Hugging Face
